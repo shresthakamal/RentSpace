@@ -1,0 +1,716 @@
+{
+  "Users" : {
+    "49MRGQMKK9ZB7r1d5s1u3gypB4s2" : {
+      "email" : "kamal.shrestha@student.ku.edu.np",
+      "id" : "49MRGQMKK9ZB7r1d5s1u3gypB4s2",
+      "name" : "Kamal Shrestha",
+      "phone" : "9843312567"
+    },
+    "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2" : {
+      "email" : "justinkarki@gmail.com",
+      "id" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2",
+      "name" : "Justin",
+      "phone" : "9843048548",
+      "profile" : "1532889445817.png"
+    },
+    "TZ5HVA3Da7PpsYgTmjaNIYrrPzv2" : {
+      "email" : "rbdiwash@gmail.com",
+      "id" : "TZ5HVA3Da7PpsYgTmjaNIYrrPzv2",
+      "name" : "Diwash Ranabhhat",
+      "phone" : "9843390825"
+    },
+    "VkW0EIxkwZadKYQfPKZepObqsfE3" : {
+      "email" : "justinkarki10@gmail.com",
+      "id" : "VkW0EIxkwZadKYQfPKZepObqsfE3",
+      "name" : "Justibd",
+      "phone" : "6596565"
+    }
+  },
+  "apartments" : {
+    "-LIak5Jj5TjgzTFPrdii" : {
+      "address" : "BANEPA",
+      "area" : "10*10",
+      "description" : "Rent Ground floor 3 rooms with bathroon & balcony at New Banesor, shree nagar marga(near birat bording school).Sweatable for small office.",
+      "email" : "justinkarki@gmail.com",
+      "phone" : "9843048548",
+      "price" : "5000",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIazxXEUkN4qWnQfUqf" : {
+      "address" : "BANEPA",
+      "area" : "50m*50m",
+      "description" : "A well presented apartment comprising large living/dining room, modern kitchen with appliances, three well proportioned double bedrooms (one with attached toilet/bathroom) and a further common bathroom. Available at the beginning of August.  All the facilities- swimming pool, gym, security charges are included in the rental amount.",
+      "email" : "Anukulparajuli@gmail.com",
+      "phone" : "9843048548",
+      "price" : "15000",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbAM2IUQHP3wZDFprZ" : {
+      "address" : "KATHMANDU",
+      "area" : "250*250",
+      "description" : "Room Details: 1 living room 1 kitchen 2 Bath Room 2 Bed Room ",
+      "email" : "justinkarki@gmail.com",
+      "phone" : "9843048548",
+      "price" : "20000",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbCmaqNiii6iQvOQe2" : {
+      "address" : "KATHMANDU",
+      "area" : "15*15",
+      "description" : "2 Bedroom Flat ( 4 rooms) huge sitting room. 2 km from Banastali Ekaltar, Tufan chock ",
+      "email" : "justinkarki@gmail.com",
+      "phone" : "9843048548",
+      "price" : "15000",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbCn-sKszsW1D7BDOE" : {
+      "address" : "KU",
+      "area" : "15*15",
+      "description" : "Hi there, Somebody looking for a nice and sharing place to stay?  We are currently looking for a social persons/family/friends to join our house  The house is in tahachal, very close to the Soaltee hotel. It's furnished and has it's own bathroom (which is attached). This floor has a kitchen, living room and pleasant roof terrace! We have internet, hot water, inverter facilities as well.  We do have the following rooms 1bedroom hall kitchen(1bhk) 1 single bedroom (1bedroom) 2bedroom hall kitchen(2bhk) (All rooms are with attached bathrooms)  Price for the following:  1bedroom-20000( if kitchen is needes, we can provide u aswell with an extra charge) 1bhk-30000 2bhk-45000  This is a newly renovated house with clean rooms. Extra charges are already included in the bills.  Parking facilities for bikes is only available.  Please contact us for further details or to come by, see the place and meet us at brijeshdshrestha@gmail.com ",
+      "email" : "justinkarki@gmail.com",
+      "phone" : "9843048548",
+      "price" : "25000",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbCn9mpyInqjwFHZ-U" : {
+      "address" : "28KILO",
+      "area" : "15*15",
+      "description" : "\"Property Type:\tHouse - Individual Area:\tKathmandu - Outside Ringroad Property Location:\tMakalbari bagmati track Access Road:\tAbove 20 feet Land Size (in aana/dhur):\t5.5 Floors:\t3.5 Built up (sq.ft):\t1200 Bedrooms:\t3 Bathroom:\t1 Living room:\t1 Water Supply:\tYes Furnishing:\tSemi Features:\tParking Space \"",
+      "email" : "KamalShrestha@gmail.com",
+      "phone" : "9843048548",
+      "price" : "5000",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbCnFWvfmpSoirGHfp" : {
+      "address" : "DHULIKHEL",
+      "area" : "15*15",
+      "description" : "Property Type:\tHouse - Individual Area:\tKathmandu - Inside Ringroad Property Location:\tPragati tole Dhumbarahi Access Road:\t13 to 20 feet Water Supply:\tYes Furnishing:\tNon",
+      "email" : "justinkarki@gmail.com",
+      "phone" : "9843048548",
+      "price" : "10000",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbCnJvrO6nMSHE4wdE" : {
+      "address" : "BHAKTAPUR",
+      "area" : "15*15",
+      "description" : "It is the quite and peace place. Room is in First Floor without cooking facility. Bathroom is as of attached. Suitable for Office and Bedroom. Bike can be parked below Staircase. Room is sunlighted fullday with well ventilation. Room is furnished with windows vertical blinds and floored with linolium finish.  Room size is 15 feet long and 10 feet wide, having windows in south and east faces. ",
+      "email" : "meenamanandhar@gmail.com",
+      "phone" : "9843048548",
+      "price" : "9500",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbE0RxlCruVti2DNc5" : {
+      "address" : "SUKEDHARA",
+      "area" : "16*16ft",
+      "description" : "\"Property Type:\tHouse - Individual Area:\tKathmandu - Outside Ringroad Property Location:\t1/2minute besides main road.Only 230 meters North from Samakhusi Chakrapath ring road Chowk. Way to Bhandari tole Gongabu. Access Road:\t13 to 20 feet Floors:\t3 Bedrooms:\t2 Bathroom:\t1 Living room:\t1 Water Supply:\tYes Furnishing:\tSemi Features:\tParking Space \"",
+      "email" : "Anukulparajuli@gmail.com",
+      "phone" : "9843048548",
+      "price" : "6500",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbE905WMoIgHHbOQ4P" : {
+      "address" : "BANESWOR",
+      "area" : "16*16ft",
+      "description" : "2bedroom 1 living room 1 kitchen Car parking Water facilities 2 bathroom ",
+      "email" : "justinkarki@gmail.com",
+      "phone" : "9843048548",
+      "price" : "5500",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbEKUR_YZV6MQRsp7C" : {
+      "address" : "DHULIKHEL",
+      "area" : "16*16ft",
+      "description" : "\"Property Type:\tHouse - Individual Area:\tLalitpur - Inside Ringroad Property Location:\tKupondole Access Road:\t13 to 20 feet Floors:\t1 Bedrooms:\t3 Bathroom:\t2 Living room:\t1 Water Supply:\tYes Furnishing:\tSemi Features:\tGarden , Parking Space \"",
+      "email" : "ambikaacharya@gmail.com",
+      "phone" : "9843048548",
+      "price" : "2500",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbEZiDC83fs0zzCfFQ" : {
+      "address" : "KATHMANDU",
+      "area" : "23*23ft",
+      "description" : "1 big room available for rent in almost new home. Only for one person preferably girl. Water available. Pls contact 9841611182 . 4500 per room with water and electricity. ",
+      "email" : "kumardevendra@gmail.com",
+      "phone" : "9843048548",
+      "price" : "1500",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbEpjYsEah9ZGPo-Eu" : {
+      "address" : "BANEPA",
+      "area" : "86*86ft",
+      "description" : "A 4 room flat (ground floor) is available for rent in Dhunga-adda, Kalanki. It is only 50 metres away from the Main Road. I has a family environment. Water and internet facility is available along with other basic facilities. The bills are exclusive. Situated in South-east direction, it get sun rays and air flow from morning to evening. All the rooms have windows and are luminous. The flat is an excellent choice if you want a quality accommodation and a peaceful environment. The house is new (only one year old). It consists of one big hall, one big bed room, one medium size room, one kitchen with equipped furniture and one common toilet/bathroom. There is also space beneath the staircase which can be used as storeroom. Space is available for bike parking. In fact, the house itself is spacious. Grab this opportunity before someone does!!! ",
+      "email" : "anupburtel@gmail.com",
+      "phone" : "9843048548",
+      "price" : "8500",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbF48zNvD6lcYUOG4j" : {
+      "address" : "KATHMANDU",
+      "area" : "16*12ft",
+      "description" : "Flat of Brand new house on rent on a very peaceful area at Kapan. It's a 2BHK flat available for family. Since it is a brand new house, the tenant needs to deposit Rs. 10,000/- only as security deposit.  Please call at 9861689442  BROKERS AND MIDDLEMEN, Please don't bother calling. ",
+      "email" : "nabinbhusal@gmail.com",
+      "phone" : "9843048548",
+      "price" : "1500",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbGxTHkt14LKqK77Ft" : {
+      "address" : "28KILO",
+      "area" : "13*17ft",
+      "description" : "3 Room 1 kitchen and a Bathroom  12ftÃ—13ft 9ftÃ—11ft 10ftx11ft 11ftÃ—10ft",
+      "email" : "Razor_32@gmail.com",
+      "phone" : "9843048548",
+      "price" : "4500",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbH4pwnclQFTuVuOwE" : {
+      "address" : "DHULIKHEL",
+      "area" : "18*17ft",
+      "description" : "2 bedrooms Ideal for working couple 40 seconds walking distance from main road 3 mins walking distance from tej binayak chowk/patti chowk 1.5 ropani compound with gardening Peaceful environment Parking facility Sufficient water supply 4 KM FAR FROM MITRAPARK 3 KM FAR FROM PEPSI PRICE NEGOTIABLE",
+      "email" : "debakichapagain@gmail.com",
+      "phone" : "9843048548",
+      "price" : "8500",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbHI90Pqdk_pOvbswk" : {
+      "address" : "KU",
+      "area" : "13*17ft",
+      "description" : "\"Property Type:\tApartment Building Area:\tKathmandu - Outside Ringroad Property Location:\tDhapakhel, Lalitpur Access Road:\t13 to 20 feet Land Size (in aana/dhur):\tna Floors:\t10 Built up (sq.ft):\t700 Bedrooms:\t2 Bathroom:\t1 Living room:\t1 Water Supply:\tYes Furnishing:\tNon Features:\tGarden , Parking Space , Garage , Servant Quarter , Security Guards , Backup Generator , Elevator \"",
+      "email" : "deepakrajkafle@gmail.com",
+      "phone" : "9843048548",
+      "price" : "2500",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbHSUk9mZFvvbiEAWX" : {
+      "address" : "KATHMANDU",
+      "area" : "13*17ft",
+      "description" : "Call us urgently 9813024499  Rent 23000 fix  Wifi free Waters free Electricity free Waste garbage free And more ",
+      "email" : "justinkarki@gmail.com",
+      "phone" : "9843048548",
+      "price" : "2500",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIdK-BdBk2HOCLoq13s" : {
+      "address" : "KU",
+      "area" : "15*15",
+      "description" : "two rooms available for students.........",
+      "email" : "rbdiwash@gmail.com",
+      "phone" : "9843390825",
+      "price" : "5000",
+      "userid" : "TZ5HVA3Da7PpsYgTmjaNIYrrPzv2"
+    }
+  },
+  "hotel" : {
+    "-LIak5Jj5TjgzTFPrdii" : {
+      "address" : "BANEPA",
+      "area" : "10*10",
+      "description" : "Rent Ground floor 3 rooms with bathroon & balcony at New Banesor, shree nagar marga(near birat bording school).Sweatable for small office.",
+      "email" : "justinkarki@gmail.com",
+      "phone" : "9843048548",
+      "price" : "5000",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIazxXEUkN4qWnQfUqf" : {
+      "address" : "BANEPA",
+      "area" : "50m*50m",
+      "description" : "A well presented apartment comprising large living/dining room, modern kitchen with appliances, three well proportioned double bedrooms (one with attached toilet/bathroom) and a further common bathroom. Available at the beginning of August.  All the facilities- swimming pool, gym, security charges are included in the rental amount.",
+      "email" : "Anukulparajuli@gmail.com",
+      "phone" : "9843048548",
+      "price" : "15000",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbAM2IUQHP3wZDFprZ" : {
+      "address" : "KATHMANDU",
+      "area" : "250*250",
+      "description" : "Room Details: 1 living room 1 kitchen 2 Bath Room 2 Bed Room ",
+      "email" : "justinkarki@gmail.com",
+      "phone" : "9843048548",
+      "price" : "20000",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbCmaqNiii6iQvOQe2" : {
+      "address" : "KATHMANDU",
+      "area" : "15*15",
+      "description" : "2 Bedroom Flat ( 4 rooms) huge sitting room. 2 km from Banastali Ekaltar, Tufan chock ",
+      "email" : "justinkarki@gmail.com",
+      "phone" : "9843048548",
+      "price" : "15000",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbCn-sKszsW1D7BDOE" : {
+      "address" : "KU",
+      "area" : "15*15",
+      "description" : "Hi there, Somebody looking for a nice and sharing place to stay?  We are currently looking for a social persons/family/friends to join our house  The house is in tahachal, very close to the Soaltee hotel. It's furnished and has it's own bathroom (which is attached). This floor has a kitchen, living room and pleasant roof terrace! We have internet, hot water, inverter facilities as well.  We do have the following rooms 1bedroom hall kitchen(1bhk) 1 single bedroom (1bedroom) 2bedroom hall kitchen(2bhk) (All rooms are with attached bathrooms)  Price for the following:  1bedroom-20000( if kitchen is needes, we can provide u aswell with an extra charge) 1bhk-30000 2bhk-45000  This is a newly renovated house with clean rooms. Extra charges are already included in the bills.  Parking facilities for bikes is only available.  Please contact us for further details or to come by, see the place and meet us at brijeshdshrestha@gmail.com ",
+      "email" : "justinkarki@gmail.com",
+      "phone" : "9843048548",
+      "price" : "25000",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbCn9mpyInqjwFHZ-U" : {
+      "address" : "28KILO",
+      "area" : "15*15",
+      "description" : "\"Property Type:\tHouse - Individual Area:\tKathmandu - Outside Ringroad Property Location:\tMakalbari bagmati track Access Road:\tAbove 20 feet Land Size (in aana/dhur):\t5.5 Floors:\t3.5 Built up (sq.ft):\t1200 Bedrooms:\t3 Bathroom:\t1 Living room:\t1 Water Supply:\tYes Furnishing:\tSemi Features:\tParking Space \"",
+      "email" : "KamalShrestha@gmail.com",
+      "phone" : "9843048548",
+      "price" : "5000",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbCnFWvfmpSoirGHfp" : {
+      "address" : "DHULIKHEL",
+      "area" : "15*15",
+      "description" : "Property Type:\tHouse - Individual Area:\tKathmandu - Inside Ringroad Property Location:\tPragati tole Dhumbarahi Access Road:\t13 to 20 feet Water Supply:\tYes Furnishing:\tNon",
+      "email" : "justinkarki@gmail.com",
+      "phone" : "9843048548",
+      "price" : "10000",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbCnJvrO6nMSHE4wdE" : {
+      "address" : "BHAKTAPUR",
+      "area" : "15*15",
+      "description" : "It is the quite and peace place. Room is in First Floor without cooking facility. Bathroom is as of attached. Suitable for Office and Bedroom. Bike can be parked below Staircase. Room is sunlighted fullday with well ventilation. Room is furnished with windows vertical blinds and floored with linolium finish.  Room size is 15 feet long and 10 feet wide, having windows in south and east faces. ",
+      "email" : "meenamanandhar@gmail.com",
+      "phone" : "9843048548",
+      "price" : "9500",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbE0RxlCruVti2DNc5" : {
+      "address" : "SUKEDHARA",
+      "area" : "16*16ft",
+      "description" : "\"Property Type:\tHouse - Individual Area:\tKathmandu - Outside Ringroad Property Location:\t1/2minute besides main road.Only 230 meters North from Samakhusi Chakrapath ring road Chowk. Way to Bhandari tole Gongabu. Access Road:\t13 to 20 feet Floors:\t3 Bedrooms:\t2 Bathroom:\t1 Living room:\t1 Water Supply:\tYes Furnishing:\tSemi Features:\tParking Space \"",
+      "email" : "Anukulparajuli@gmail.com",
+      "phone" : "9843048548",
+      "price" : "6500",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbE905WMoIgHHbOQ4P" : {
+      "address" : "BANESWOR",
+      "area" : "16*16ft",
+      "description" : "2bedroom 1 living room 1 kitchen Car parking Water facilities 2 bathroom ",
+      "email" : "justinkarki@gmail.com",
+      "phone" : "9843048548",
+      "price" : "5500",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbEKUR_YZV6MQRsp7C" : {
+      "address" : "DHULIKHEL",
+      "area" : "16*16ft",
+      "description" : "\"Property Type:\tHouse - Individual Area:\tLalitpur - Inside Ringroad Property Location:\tKupondole Access Road:\t13 to 20 feet Floors:\t1 Bedrooms:\t3 Bathroom:\t2 Living room:\t1 Water Supply:\tYes Furnishing:\tSemi Features:\tGarden , Parking Space \"",
+      "email" : "ambikaacharya@gmail.com",
+      "phone" : "9843048548",
+      "price" : "2500",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbEZiDC83fs0zzCfFQ" : {
+      "address" : "KATHMANDU",
+      "area" : "23*23ft",
+      "description" : "1 big room available for rent in almost new home. Only for one person preferably girl. Water available. Pls contact 9841611182 . 4500 per room with water and electricity. ",
+      "email" : "kumardevendra@gmail.com",
+      "phone" : "9843048548",
+      "price" : "1500",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbEpjYsEah9ZGPo-Eu" : {
+      "address" : "BANEPA",
+      "area" : "86*86ft",
+      "description" : "A 4 room flat (ground floor) is available for rent in Dhunga-adda, Kalanki. It is only 50 metres away from the Main Road. I has a family environment. Water and internet facility is available along with other basic facilities. The bills are exclusive. Situated in South-east direction, it get sun rays and air flow from morning to evening. All the rooms have windows and are luminous. The flat is an excellent choice if you want a quality accommodation and a peaceful environment. The house is new (only one year old). It consists of one big hall, one big bed room, one medium size room, one kitchen with equipped furniture and one common toilet/bathroom. There is also space beneath the staircase which can be used as storeroom. Space is available for bike parking. In fact, the house itself is spacious. Grab this opportunity before someone does!!! ",
+      "email" : "anupburtel@gmail.com",
+      "phone" : "9843048548",
+      "price" : "8500",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbF48zNvD6lcYUOG4j" : {
+      "address" : "KATHMANDU",
+      "area" : "16*12ft",
+      "description" : "Flat of Brand new house on rent on a very peaceful area at Kapan. It's a 2BHK flat available for family. Since it is a brand new house, the tenant needs to deposit Rs. 10,000/- only as security deposit.  Please call at 9861689442  BROKERS AND MIDDLEMEN, Please don't bother calling. ",
+      "email" : "nabinbhusal@gmail.com",
+      "phone" : "9843048548",
+      "price" : "1500",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbGxTHkt14LKqK77Ft" : {
+      "address" : "28KILO",
+      "area" : "13*17ft",
+      "description" : "3 Room 1 kitchen and a Bathroom  12ftÃ—13ft 9ftÃ—11ft 10ftx11ft 11ftÃ—10ft",
+      "email" : "Razor_32@gmail.com",
+      "phone" : "9843048548",
+      "price" : "4500",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbH4pwnclQFTuVuOwE" : {
+      "address" : "DHULIKHEL",
+      "area" : "18*17ft",
+      "description" : "2 bedrooms Ideal for working couple 40 seconds walking distance from main road 3 mins walking distance from tej binayak chowk/patti chowk 1.5 ropani compound with gardening Peaceful environment Parking facility Sufficient water supply 4 KM FAR FROM MITRAPARK 3 KM FAR FROM PEPSI PRICE NEGOTIABLE",
+      "email" : "debakichapagain@gmail.com",
+      "phone" : "9843048548",
+      "price" : "8500",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbHI90Pqdk_pOvbswk" : {
+      "address" : "KU",
+      "area" : "13*17ft",
+      "description" : "\"Property Type:\tApartment Building Area:\tKathmandu - Outside Ringroad Property Location:\tDhapakhel, Lalitpur Access Road:\t13 to 20 feet Land Size (in aana/dhur):\tna Floors:\t10 Built up (sq.ft):\t700 Bedrooms:\t2 Bathroom:\t1 Living room:\t1 Water Supply:\tYes Furnishing:\tNon Features:\tGarden , Parking Space , Garage , Servant Quarter , Security Guards , Backup Generator , Elevator \"",
+      "email" : "deepakrajkafle@gmail.com",
+      "phone" : "9843048548",
+      "price" : "2500",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbHSUk9mZFvvbiEAWX" : {
+      "address" : "KATHMANDU",
+      "area" : "13*17ft",
+      "description" : "Call us urgently 9813024499  Rent 23000 fix  Wifi free Waters free Electricity free Waste garbage free And more ",
+      "email" : "justinkarki@gmail.com",
+      "phone" : "9843048548",
+      "price" : "2500",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    }
+  },
+  "office" : {
+    "-LIak5Jj5TjgzTFPrdii" : {
+      "address" : "BANEPA",
+      "area" : "10*10",
+      "description" : "Rent Ground floor 3 rooms with bathroon & balcony at New Banesor, shree nagar marga(near birat bording school).Sweatable for small office.",
+      "email" : "justinkarki@gmail.com",
+      "phone" : "9843048548",
+      "price" : "5000",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIazxXEUkN4qWnQfUqf" : {
+      "address" : "BANEPA",
+      "area" : "50m*50m",
+      "description" : "A well presented apartment comprising large living/dining room, modern kitchen with appliances, three well proportioned double bedrooms (one with attached toilet/bathroom) and a further common bathroom. Available at the beginning of August.  All the facilities- swimming pool, gym, security charges are included in the rental amount.",
+      "email" : "Anukulparajuli@gmail.com",
+      "phone" : "9843048548",
+      "price" : "15000",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbAM2IUQHP3wZDFprZ" : {
+      "address" : "KATHMANDU",
+      "area" : "250*250",
+      "description" : "Room Details: 1 living room 1 kitchen 2 Bath Room 2 Bed Room ",
+      "email" : "justinkarki@gmail.com",
+      "phone" : "9843048548",
+      "price" : "20000",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbCmaqNiii6iQvOQe2" : {
+      "address" : "KATHMANDU",
+      "area" : "15*15",
+      "description" : "2 Bedroom Flat ( 4 rooms) huge sitting room. 2 km from Banastali Ekaltar, Tufan chock ",
+      "email" : "justinkarki@gmail.com",
+      "phone" : "9843048548",
+      "price" : "15000",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbCn-sKszsW1D7BDOE" : {
+      "address" : "KU",
+      "area" : "15*15",
+      "description" : "Hi there, Somebody looking for a nice and sharing place to stay?  We are currently looking for a social persons/family/friends to join our house  The house is in tahachal, very close to the Soaltee hotel. It's furnished and has it's own bathroom (which is attached). This floor has a kitchen, living room and pleasant roof terrace! We have internet, hot water, inverter facilities as well.  We do have the following rooms 1bedroom hall kitchen(1bhk) 1 single bedroom (1bedroom) 2bedroom hall kitchen(2bhk) (All rooms are with attached bathrooms)  Price for the following:  1bedroom-20000( if kitchen is needes, we can provide u aswell with an extra charge) 1bhk-30000 2bhk-45000  This is a newly renovated house with clean rooms. Extra charges are already included in the bills.  Parking facilities for bikes is only available.  Please contact us for further details or to come by, see the place and meet us at brijeshdshrestha@gmail.com ",
+      "email" : "justinkarki@gmail.com",
+      "phone" : "9843048548",
+      "price" : "25000",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbCn9mpyInqjwFHZ-U" : {
+      "address" : "28KILO",
+      "area" : "15*15",
+      "description" : "\"Property Type:\tHouse - Individual Area:\tKathmandu - Outside Ringroad Property Location:\tMakalbari bagmati track Access Road:\tAbove 20 feet Land Size (in aana/dhur):\t5.5 Floors:\t3.5 Built up (sq.ft):\t1200 Bedrooms:\t3 Bathroom:\t1 Living room:\t1 Water Supply:\tYes Furnishing:\tSemi Features:\tParking Space \"",
+      "email" : "KamalShrestha@gmail.com",
+      "phone" : "9843048548",
+      "price" : "5000",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbCnFWvfmpSoirGHfp" : {
+      "address" : "DHULIKHEL",
+      "area" : "15*15",
+      "description" : "Property Type:\tHouse - Individual Area:\tKathmandu - Inside Ringroad Property Location:\tPragati tole Dhumbarahi Access Road:\t13 to 20 feet Water Supply:\tYes Furnishing:\tNon",
+      "email" : "justinkarki@gmail.com",
+      "phone" : "9843048548",
+      "price" : "10000",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbCnJvrO6nMSHE4wdE" : {
+      "address" : "BHAKTAPUR",
+      "area" : "15*15",
+      "description" : "It is the quite and peace place. Room is in First Floor without cooking facility. Bathroom is as of attached. Suitable for Office and Bedroom. Bike can be parked below Staircase. Room is sunlighted fullday with well ventilation. Room is furnished with windows vertical blinds and floored with linolium finish.  Room size is 15 feet long and 10 feet wide, having windows in south and east faces. ",
+      "email" : "meenamanandhar@gmail.com",
+      "phone" : "9843048548",
+      "price" : "9500",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbE0RxlCruVti2DNc5" : {
+      "address" : "SUKEDHARA",
+      "area" : "16*16ft",
+      "description" : "\"Property Type:\tHouse - Individual Area:\tKathmandu - Outside Ringroad Property Location:\t1/2minute besides main road.Only 230 meters North from Samakhusi Chakrapath ring road Chowk. Way to Bhandari tole Gongabu. Access Road:\t13 to 20 feet Floors:\t3 Bedrooms:\t2 Bathroom:\t1 Living room:\t1 Water Supply:\tYes Furnishing:\tSemi Features:\tParking Space \"",
+      "email" : "Anukulparajuli@gmail.com",
+      "phone" : "9843048548",
+      "price" : "6500",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbE905WMoIgHHbOQ4P" : {
+      "address" : "BANESWOR",
+      "area" : "16*16ft",
+      "description" : "2bedroom 1 living room 1 kitchen Car parking Water facilities 2 bathroom ",
+      "email" : "justinkarki@gmail.com",
+      "phone" : "9843048548",
+      "price" : "5500",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbEKUR_YZV6MQRsp7C" : {
+      "address" : "DHULIKHEL",
+      "area" : "16*16ft",
+      "description" : "\"Property Type:\tHouse - Individual Area:\tLalitpur - Inside Ringroad Property Location:\tKupondole Access Road:\t13 to 20 feet Floors:\t1 Bedrooms:\t3 Bathroom:\t2 Living room:\t1 Water Supply:\tYes Furnishing:\tSemi Features:\tGarden , Parking Space \"",
+      "email" : "ambikaacharya@gmail.com",
+      "phone" : "9843048548",
+      "price" : "2500",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbEZiDC83fs0zzCfFQ" : {
+      "address" : "KATHMANDU",
+      "area" : "23*23ft",
+      "description" : "1 big room available for rent in almost new home. Only for one person preferably girl. Water available. Pls contact 9841611182 . 4500 per room with water and electricity. ",
+      "email" : "kumardevendra@gmail.com",
+      "phone" : "9843048548",
+      "price" : "1500",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbEpjYsEah9ZGPo-Eu" : {
+      "address" : "BANEPA",
+      "area" : "86*86ft",
+      "description" : "A 4 room flat (ground floor) is available for rent in Dhunga-adda, Kalanki. It is only 50 metres away from the Main Road. I has a family environment. Water and internet facility is available along with other basic facilities. The bills are exclusive. Situated in South-east direction, it get sun rays and air flow from morning to evening. All the rooms have windows and are luminous. The flat is an excellent choice if you want a quality accommodation and a peaceful environment. The house is new (only one year old). It consists of one big hall, one big bed room, one medium size room, one kitchen with equipped furniture and one common toilet/bathroom. There is also space beneath the staircase which can be used as storeroom. Space is available for bike parking. In fact, the house itself is spacious. Grab this opportunity before someone does!!! ",
+      "email" : "anupburtel@gmail.com",
+      "phone" : "9843048548",
+      "price" : "8500",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbF48zNvD6lcYUOG4j" : {
+      "address" : "KATHMANDU",
+      "area" : "16*12ft",
+      "description" : "Flat of Brand new house on rent on a very peaceful area at Kapan. It's a 2BHK flat available for family. Since it is a brand new house, the tenant needs to deposit Rs. 10,000/- only as security deposit.  Please call at 9861689442  BROKERS AND MIDDLEMEN, Please don't bother calling. ",
+      "email" : "nabinbhusal@gmail.com",
+      "phone" : "9843048548",
+      "price" : "1500",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbGxTHkt14LKqK77Ft" : {
+      "address" : "28KILO",
+      "area" : "13*17ft",
+      "description" : "3 Room 1 kitchen and a Bathroom  12ftÃ—13ft 9ftÃ—11ft 10ftx11ft 11ftÃ—10ft",
+      "email" : "Razor_32@gmail.com",
+      "phone" : "9843048548",
+      "price" : "4500",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbH4pwnclQFTuVuOwE" : {
+      "address" : "DHULIKHEL",
+      "area" : "18*17ft",
+      "description" : "2 bedrooms Ideal for working couple 40 seconds walking distance from main road 3 mins walking distance from tej binayak chowk/patti chowk 1.5 ropani compound with gardening Peaceful environment Parking facility Sufficient water supply 4 KM FAR FROM MITRAPARK 3 KM FAR FROM PEPSI PRICE NEGOTIABLE",
+      "email" : "debakichapagain@gmail.com",
+      "phone" : "9843048548",
+      "price" : "8500",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbHI90Pqdk_pOvbswk" : {
+      "address" : "KU",
+      "area" : "13*17ft",
+      "description" : "\"Property Type:\tApartment Building Area:\tKathmandu - Outside Ringroad Property Location:\tDhapakhel, Lalitpur Access Road:\t13 to 20 feet Land Size (in aana/dhur):\tna Floors:\t10 Built up (sq.ft):\t700 Bedrooms:\t2 Bathroom:\t1 Living room:\t1 Water Supply:\tYes Furnishing:\tNon Features:\tGarden , Parking Space , Garage , Servant Quarter , Security Guards , Backup Generator , Elevator \"",
+      "email" : "deepakrajkafle@gmail.com",
+      "phone" : "9843048548",
+      "price" : "2500",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbHSUk9mZFvvbiEAWX" : {
+      "address" : "KATHMANDU",
+      "area" : "13*17ft",
+      "description" : "Call us urgently 9813024499  Rent 23000 fix  Wifi free Waters free Electricity free Waste garbage free And more ",
+      "email" : "justinkarki@gmail.com",
+      "phone" : "9843048548",
+      "price" : "2500",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    }
+  },
+  "rooms" : {
+    "-LIak5Jj5TjgzTFPrdii" : {
+      "address" : "BANEPA",
+      "area" : "10*10",
+      "description" : "Rent Ground floor 3 rooms with bathroon & balcony at New Banesor, shree nagar marga(near birat bording school).Sweatable for small office.",
+      "email" : "justinkarki@gmail.com",
+      "phone" : "9843048548",
+      "price" : "5000",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIazxXEUkN4qWnQfUqf" : {
+      "address" : "BANEPA",
+      "area" : "50m*50m",
+      "description" : "A well presented apartment comprising large living/dining room, modern kitchen with appliances, three well proportioned double bedrooms (one with attached toilet/bathroom) and a further common bathroom. Available at the beginning of August.  All the facilities- swimming pool, gym, security charges are included in the rental amount.",
+      "email" : "Anukulparajuli@gmail.com",
+      "phone" : "9843048548",
+      "price" : "15000",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbAM2IUQHP3wZDFprZ" : {
+      "address" : "KATHMANDU",
+      "area" : "250*250",
+      "description" : "Room Details: 1 living room 1 kitchen 2 Bath Room 2 Bed Room ",
+      "email" : "justinkarki@gmail.com",
+      "phone" : "9843048548",
+      "price" : "20000",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbCmaqNiii6iQvOQe2" : {
+      "address" : "KATHMANDU",
+      "area" : "15*15",
+      "description" : "2 Bedroom Flat ( 4 rooms) huge sitting room. 2 km from Banastali Ekaltar, Tufan chock ",
+      "email" : "justinkarki@gmail.com",
+      "phone" : "9843048548",
+      "price" : "15000",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbCn-sKszsW1D7BDOE" : {
+      "address" : "KU",
+      "area" : "15*15",
+      "description" : "Hi there, Somebody looking for a nice and sharing place to stay?  We are currently looking for a social persons/family/friends to join our house  The house is in tahachal, very close to the Soaltee hotel. It's furnished and has it's own bathroom (which is attached). This floor has a kitchen, living room and pleasant roof terrace! We have internet, hot water, inverter facilities as well.  We do have the following rooms 1bedroom hall kitchen(1bhk) 1 single bedroom (1bedroom) 2bedroom hall kitchen(2bhk) (All rooms are with attached bathrooms)  Price for the following:  1bedroom-20000( if kitchen is needes, we can provide u aswell with an extra charge) 1bhk-30000 2bhk-45000  This is a newly renovated house with clean rooms. Extra charges are already included in the bills.  Parking facilities for bikes is only available.  Please contact us for further details or to come by, see the place and meet us at brijeshdshrestha@gmail.com ",
+      "email" : "justinkarki@gmail.com",
+      "phone" : "9843048548",
+      "price" : "25000",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbCn9mpyInqjwFHZ-U" : {
+      "address" : "28KILO",
+      "area" : "15*15",
+      "description" : "\"Property Type:\tHouse - Individual Area:\tKathmandu - Outside Ringroad Property Location:\tMakalbari bagmati track Access Road:\tAbove 20 feet Land Size (in aana/dhur):\t5.5 Floors:\t3.5 Built up (sq.ft):\t1200 Bedrooms:\t3 Bathroom:\t1 Living room:\t1 Water Supply:\tYes Furnishing:\tSemi Features:\tParking Space \"",
+      "email" : "KamalShrestha@gmail.com",
+      "phone" : "9843048548",
+      "price" : "5000",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbCnFWvfmpSoirGHfp" : {
+      "address" : "DHULIKHEL",
+      "area" : "15*15",
+      "description" : "Property Type:\tHouse - Individual Area:\tKathmandu - Inside Ringroad Property Location:\tPragati tole Dhumbarahi Access Road:\t13 to 20 feet Water Supply:\tYes Furnishing:\tNon",
+      "email" : "justinkarki@gmail.com",
+      "phone" : "9843048548",
+      "price" : "10000",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbCnJvrO6nMSHE4wdE" : {
+      "address" : "BHAKTAPUR",
+      "area" : "15*15",
+      "description" : "It is the quite and peace place. Room is in First Floor without cooking facility. Bathroom is as of attached. Suitable for Office and Bedroom. Bike can be parked below Staircase. Room is sunlighted fullday with well ventilation. Room is furnished with windows vertical blinds and floored with linolium finish.  Room size is 15 feet long and 10 feet wide, having windows in south and east faces. ",
+      "email" : "meenamanandhar@gmail.com",
+      "phone" : "9843048548",
+      "price" : "9500",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbE0RxlCruVti2DNc5" : {
+      "address" : "SUKEDHARA",
+      "area" : "16*16ft",
+      "description" : "\"Property Type:\tHouse - Individual Area:\tKathmandu - Outside Ringroad Property Location:\t1/2minute besides main road.Only 230 meters North from Samakhusi Chakrapath ring road Chowk. Way to Bhandari tole Gongabu. Access Road:\t13 to 20 feet Floors:\t3 Bedrooms:\t2 Bathroom:\t1 Living room:\t1 Water Supply:\tYes Furnishing:\tSemi Features:\tParking Space \"",
+      "email" : "Anukulparajuli@gmail.com",
+      "phone" : "9843048548",
+      "price" : "6500",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbE905WMoIgHHbOQ4P" : {
+      "address" : "BANESWOR",
+      "area" : "16*16ft",
+      "description" : "2bedroom 1 living room 1 kitchen Car parking Water facilities 2 bathroom ",
+      "email" : "justinkarki@gmail.com",
+      "phone" : "9843048548",
+      "price" : "5500",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbEKUR_YZV6MQRsp7C" : {
+      "address" : "DHULIKHEL",
+      "area" : "16*16ft",
+      "description" : "\"Property Type:\tHouse - Individual Area:\tLalitpur - Inside Ringroad Property Location:\tKupondole Access Road:\t13 to 20 feet Floors:\t1 Bedrooms:\t3 Bathroom:\t2 Living room:\t1 Water Supply:\tYes Furnishing:\tSemi Features:\tGarden , Parking Space \"",
+      "email" : "ambikaacharya@gmail.com",
+      "phone" : "9843048548",
+      "price" : "2500",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbEZiDC83fs0zzCfFQ" : {
+      "address" : "KATHMANDU",
+      "area" : "23*23ft",
+      "description" : "1 big room available for rent in almost new home. Only for one person preferably girl. Water available. Pls contact 9841611182 . 4500 per room with water and electricity. ",
+      "email" : "kumardevendra@gmail.com",
+      "phone" : "9843048548",
+      "price" : "1500",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbEpjYsEah9ZGPo-Eu" : {
+      "address" : "BANEPA",
+      "area" : "86*86ft",
+      "description" : "A 4 room flat (ground floor) is available for rent in Dhunga-adda, Kalanki. It is only 50 metres away from the Main Road. I has a family environment. Water and internet facility is available along with other basic facilities. The bills are exclusive. Situated in South-east direction, it get sun rays and air flow from morning to evening. All the rooms have windows and are luminous. The flat is an excellent choice if you want a quality accommodation and a peaceful environment. The house is new (only one year old). It consists of one big hall, one big bed room, one medium size room, one kitchen with equipped furniture and one common toilet/bathroom. There is also space beneath the staircase which can be used as storeroom. Space is available for bike parking. In fact, the house itself is spacious. Grab this opportunity before someone does!!! ",
+      "email" : "anupburtel@gmail.com",
+      "phone" : "9843048548",
+      "price" : "8500",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbF48zNvD6lcYUOG4j" : {
+      "address" : "KATHMANDU",
+      "area" : "16*12ft",
+      "description" : "Flat of Brand new house on rent on a very peaceful area at Kapan. It's a 2BHK flat available for family. Since it is a brand new house, the tenant needs to deposit Rs. 10,000/- only as security deposit.  Please call at 9861689442  BROKERS AND MIDDLEMEN, Please don't bother calling. ",
+      "email" : "nabinbhusal@gmail.com",
+      "phone" : "9843048548",
+      "price" : "1500",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbGxTHkt14LKqK77Ft" : {
+      "address" : "28KILO",
+      "area" : "13*17ft",
+      "description" : "3 Room 1 kitchen and a Bathroom  12ftÃ—13ft 9ftÃ—11ft 10ftx11ft 11ftÃ—10ft",
+      "email" : "Razor_32@gmail.com",
+      "phone" : "9843048548",
+      "price" : "4500",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbH4pwnclQFTuVuOwE" : {
+      "address" : "DHULIKHEL",
+      "area" : "18*17ft",
+      "description" : "2 bedrooms Ideal for working couple 40 seconds walking distance from main road 3 mins walking distance from tej binayak chowk/patti chowk 1.5 ropani compound with gardening Peaceful environment Parking facility Sufficient water supply 4 KM FAR FROM MITRAPARK 3 KM FAR FROM PEPSI PRICE NEGOTIABLE",
+      "email" : "debakichapagain@gmail.com",
+      "phone" : "9843048548",
+      "price" : "8500",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbHI90Pqdk_pOvbswk" : {
+      "address" : "KU",
+      "area" : "13*17ft",
+      "description" : "\"Property Type:\tApartment Building Area:\tKathmandu - Outside Ringroad Property Location:\tDhapakhel, Lalitpur Access Road:\t13 to 20 feet Land Size (in aana/dhur):\tna Floors:\t10 Built up (sq.ft):\t700 Bedrooms:\t2 Bathroom:\t1 Living room:\t1 Water Supply:\tYes Furnishing:\tNon Features:\tGarden , Parking Space , Garage , Servant Quarter , Security Guards , Backup Generator , Elevator \"",
+      "email" : "deepakrajkafle@gmail.com",
+      "phone" : "9843048548",
+      "price" : "2500",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    },
+    "-LIbHSUk9mZFvvbiEAWX" : {
+      "address" : "KATHMANDU",
+      "area" : "13*17ft",
+      "description" : "Call us urgently 9813024499  Rent 23000 fix  Wifi free Waters free Electricity free Waste garbage free And more ",
+      "email" : "justinkarki@gmail.com",
+      "phone" : "9843048548",
+      "price" : "2500",
+      "userid" : "MZNuLrjc0Ug1Vo7IiQyvcaytTYU2"
+    }
+  },
+  "uploads" : {
+    "-LIagQylVFFFpSWOXw_x" : {
+      "imageURL" : "https://firebasestorage.googleapis.com/v0/b/rentspace-3a9e9.appspot.com/o?name=uploads%2F1532878758611.png&uploadType=resumable&upload_id=AEnB2UoQnDpDloL7-fd_MZoMtTqK0bCTKW3YroFTzQdsM7--jbgv52Q926JIzY6jg6-lbjhhhYuM1w3KeziMNi15rt2S9eJaAr6UGaCqeZQBdKn98flczkk&upload_protocol=resumable",
+      "nameOfImage" : "No Name"
+    },
+    "-LIarD6940e56szIOGzv" : {
+      "imageURL" : "https://firebasestorage.googleapis.com/v0/b/rentspace-3a9e9.appspot.com/o?name=uploads%2F1532881588310.png&uploadType=resumable&upload_id=AEnB2UoXvWL_Bz5W3L_AVcCF7XHBhlKWWcFDM7sQroXcWHCpriypa3iBPPahJqgT_TyroeS5blDbYj6rfmaNRtY8wA7KAWV5aA&upload_protocol=resumable",
+      "nameOfImage" : "No Name"
+    },
+    "-LIatoFHMdGsF9R272cj" : {
+      "imageURL" : "https://firebasestorage.googleapis.com/v0/b/rentspace-3a9e9.appspot.com/o?name=uploads%2F1532882268182.png&uploadType=resumable&upload_id=AEnB2Up8ww8Xp9Jgb_sqbvqf1YRwAgz4bKjrfV_GPhQXwTJjLm7irmPBytZuZWTGb3z1ohceE6upMlaizDkilk0VDNJutYui4w&upload_protocol=resumable",
+      "nameOfImage" : "my photo"
+    },
+    "-LIb20y2FVm0g33fBIVW" : {
+      "imageURL" : "https://firebasestorage.googleapis.com/v0/b/rentspace-3a9e9.appspot.com/o?name=uploads%2F1532884684090.png&uploadType=resumable&upload_id=AEnB2UqkEtq1mVyK7YRYa53GwyWvHS7ZfW9L4qdxRf68Egi2Qdr7JCtS33QbQ9k5AEjZ8iWTY-_ZbnNNzfPDupvmgPqEavN9Ophb3KdmzGaf1_aNXXdSR2Q&upload_protocol=resumable",
+      "nameOfImage" : "No Name"
+    },
+    "-LIb7t-sTIYkTFH7liCx" : {
+      "imageURL" : "https://firebasestorage.googleapis.com/v0/b/rentspace-3a9e9.appspot.com/o?name=uploads%2Fimage%3A80054&uploadType=resumable&upload_id=AEnB2UqTJQ22mAWxq1-5bLTygUEialt-vc0GQGmIh8Fp3LqzMDB8M0P-xBLYFa7u73Im0Ia4_x3bNBXGDh_bLvWP7tsAhNaYow&upload_protocol=resumable",
+      "nameOfImage" : "No Name"
+    }
+  }
+}
